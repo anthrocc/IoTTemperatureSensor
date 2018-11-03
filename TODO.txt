@@ -1,0 +1,3 @@
+1. Fix trailing decimals in IFTTT call
+2. Make it so the program takes the ID as argument
+3. Final pass-over of lab as a whole
